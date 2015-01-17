@@ -1,0 +1,6 @@
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Gymnastikligan 2014\Gymnastikligan 2014\bin\Debug\Gymnastikligan 2014.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Gymnastikligan 2014\Gymnastikligan 2014\bin\Debug\Gymnastikligan 2014.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Gymnastikligan 2014\Gymnastikligan 2014\bin\Debug\Gymnastikligan 2014.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Gymnastikligan 2014\Gymnastikligan 2014\obj\Debug\Gymnastikligan 2014.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Gymnastikligan 2014\Gymnastikligan 2014\obj\Debug\Gymnastikligan 2014.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Gymnastikligan 2014\Gymnastikligan 2014\obj\Debug\Gymnastikligan 2014.pdb
